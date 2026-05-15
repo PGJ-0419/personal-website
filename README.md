@@ -2,6 +2,11 @@
 
 一个面向国内访问环境的 Google Sites 个人主页复现项目，采用 Vite + React 构建。
 
+## 环境要求
+
+- Node.js 22
+- npm 10+
+
 ## 开发
 
 ```bash
